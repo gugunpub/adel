@@ -1,8 +1,8 @@
-User-agent: AhrefsBot
-Disallow: /
+User-agent: Googlebot
+Disallow: 
 
-User-agent: rogerbot
-Disallow: /
+User-agent: Bingbot
+Disallow: 
 
-User-agent: SemrushBot
+User-agent: *
 Disallow: /
