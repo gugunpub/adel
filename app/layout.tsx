@@ -8,7 +8,7 @@ import { ModeToggle } from "@/components/mode-toggle"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Kampung Literasi Blog",
+  title: "Kampung Baca Blog",
   description: "Buat Konten Sepenuh Hati",
 }
 
