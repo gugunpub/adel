@@ -1,4 +1,1 @@
-User-agent: AhrefsBot
-User-agent: SemrushBot
-User-agent: rogerbot
-Disallow: /
+
